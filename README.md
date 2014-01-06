@@ -1,4 +1,4 @@
-foundation_codekit
+Foundation 5 For Codekit
 ==================
 
 Foundation SCSS Template for Codekit
