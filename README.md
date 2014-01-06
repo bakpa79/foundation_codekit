@@ -14,7 +14,7 @@ Reference
 [Foundation](http://foundation.zurb.com/) (Version 5)
 
 ## How to use
-**
+*You should just be able to drop this project folder into Codekit and get started. I'll flesh out this section later.*
 
 ## Contributions & Issues
 
