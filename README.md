@@ -23,5 +23,7 @@ Contributions are welcome. Please clearly explain the purpose of the PR and foll
 Issues can be resolved quickest if they are descriptive and include both a reduced test case and a set of steps to reproduce.
 
 ## License
-
 Licensed under the [MIT License](http://www.opensource.org/licenses/mit-license.php).
+
+### Download, Fork, Commit.
+If you think you can make this better, please Download, Fork, & Commit. We'd love to see your ideas.
